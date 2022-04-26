@@ -9,5 +9,8 @@ Sacado de este tutorial
 https://www.instructables.com/Play-Video-With-Python-and-GPIO/
 
 necesita librería dbus y wrapper de omxplayer
+
+
 sudo apt install libdbus-glib-1-dev dbus libdbus-1-dev
+
 sudo pip3 install omxplayer-wrapper
