@@ -18,10 +18,10 @@ sudo pip3 install omxplayer-wrapper
 HelpFile Raspberry
 https://docs.google.com/document/d/1ynUdWyj8mrmYjaODyKPGiZ20GHwemi0Ll-3JvXu9w9c/edit
 Tópicos:
-  #RaspbianSetup 
-  #Omxplayer 
-  #HowToSsh 
-  #sudodd 
-  #AudioVideoConfig 
-  #WirelessConfig 
-  #AccessPointConfig
+  #RaspbianSetup__ 
+  #Omxplayer__ 
+  #HowToSsh__ 
+  #sudodd__ 
+  #AudioVideoConfig__
+  #WirelessConfig__
+  #AccessPointConfig__
