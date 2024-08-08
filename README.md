@@ -14,3 +14,14 @@ necesita librería dbus y wrapper de omxplayer
 sudo apt install libdbus-glib-1-dev dbus libdbus-1-dev
 
 sudo pip3 install omxplayer-wrapper
+
+HelpFile Raspberry
+https://docs.google.com/document/d/1ynUdWyj8mrmYjaODyKPGiZ20GHwemi0Ll-3JvXu9w9c/edit
+Tópicos:
+  #RaspbianSetup 
+  #Omxplayer 
+  #HowToSsh 
+  #sudodd 
+  #AudioVideoConfig 
+  #WirelessConfig 
+  #AccessPointConfig
